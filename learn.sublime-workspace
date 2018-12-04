@@ -1,0 +1,2305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"texw",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"pro",
+				"projects\t(web.php)"
+			],
+			[
+				"cont",
+				"content\t(welcome.blade.php)"
+			],
+			[
+				"ret",
+				"ret\treturn"
+			],
+			[
+				"Rc",
+				"Route::controller\tRoute a controller to a URI with wildcard routing."
+			],
+			[
+				"selec",
+				"selectedCategories"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"fil",
+				"filterData"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"sele",
+				"selectedCategories"
+			],
+			[
+				"from",
+				"fromLoad"
+			],
+			[
+				"serial",
+				"serializedData"
+			],
+			[
+				"pagi",
+				"paginate"
+			],
+			[
+				"php",
+				"phpunit"
+			],
+			[
+				"con",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"product_s",
+				"product_single__col\t(products_product.tpl)"
+			],
+			[
+				"texxl",
+				"text-xl-right \tBootstrap 4 Class"
+			],
+			[
+				"trans",
+				"transparent\tcolor"
+			],
+			[
+				"texce",
+				"text-md-center \tBootstrap 4 Class"
+			],
+			[
+				"fun",
+				"function\t(products_info.php)"
+			],
+			[
+				"jusxl",
+				"justify-content-xl-center \tBootstrap 4 Class"
+			],
+			[
+				"item",
+				"items\t(products_info.php)"
+			],
+			[
+				"cate",
+				"category\t(products_info.php)"
+			],
+			[
+				"pare",
+				"parent_id\t(products_info.php)"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"up",
+				"uploads_script\t(news_slider.php)"
+			],
+			[
+				"news",
+				"news_slider"
+			],
+			[
+				"positi",
+				"position-relative\t(products_list.tpl)"
+			],
+			[
+				"colxl",
+				"col-xl-4 \tBootstrap 4 Class"
+			],
+			[
+				"py-xl",
+				"py-xl-3 \tBootstrap 4 Class"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"no",
+				"no-repeat\t(catalog.css)"
+			],
+			[
+				"bg",
+				"background-image\tproperty"
+			],
+			[
+				"jus",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"you",
+				"youtube\t(catalog.css)"
+			],
+			[
+				"text",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"uploa",
+				"uploads/"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"mb",
+				"mb-sm-4 \tBootstrap 4 Class"
+			],
+			[
+				"mrx",
+				"mr-xl-3 \tBootstrap 4 Class"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"pt-x",
+				"pt-xl-3 \tBootstrap 4 Class"
+			],
+			[
+				"c-prod",
+				"c-product-item"
+			],
+			[
+				"colmd",
+				"col-md-12 \tBootstrap 4 Class"
+			],
+			[
+				"img",
+				"img-fluid \tBootstrap 4 Class"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"our",
+				"our_products\t(eng.php)"
+			],
+			[
+				"about",
+				"about_content"
+			],
+			[
+				"abo",
+				"about_us_rec.png\tw:731 h:329"
+			],
+			[
+				"post",
+				"position-relative\t(header.tpl)"
+			],
+			[
+				"com",
+				"com\tpersonal_comment"
+			],
+			[
+				"upl",
+				"uploads/"
+			],
+			[
+				"navbar",
+				"navbar--main\t(mobile.css)"
+			],
+			[
+				"na",
+				"navbar--main\t(mobile.css)"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"fi",
+				"filters"
+			],
+			[
+				"op",
+				"options_filters"
+			],
+			[
+				"rec",
+				"rec_id"
+			],
+			[
+				"conte",
+				"content_pages"
+			],
+			[
+				"mblg",
+				"mb-lg-2 \tBootstrap 4 Class"
+			],
+			[
+				"ჯა",
+				"ჯამური\t(geo.php)"
+			],
+			[
+				"product",
+				"product_brand"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"totl",
+				"total_price\t(index.php)"
+			],
+			[
+				"esl",
+				"else"
+			],
+			[
+				"car",
+				"cart_item"
+			],
+			[
+				"cat",
+				"cat_id"
+			],
+			[
+				"ite",
+				"itemImageRes"
+			],
+			[
+				"loca",
+				"localStorage\t(products_product.tpl)"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"gif",
+				"gift_id"
+			],
+			[
+				"cart",
+				"cart_items"
+			],
+			[
+				"int",
+				"introimg\t(products_product.tpl)"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"real",
+				"realXHR"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"val",
+				"value\t(basket_pay.tpl)"
+			],
+			[
+				"ins",
+				"installmentBank"
+			],
+			[
+				"gift",
+				"gift_products"
+			],
+			[
+				"gi",
+				"gift_product_ids\t(product_info.php)"
+			],
+			[
+				"gid",
+				"gift_products"
+			],
+			[
+				"explode",
+				"explode"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"all",
+				"all_products"
+			],
+			[
+				"sub",
+				"submit\t.submit()"
+			],
+			[
+				"a",
+				"amount"
+			],
+			[
+				"data",
+				"data_user"
+			],
+			[
+				"mer",
+				"merch_id"
+			],
+			[
+				"bog",
+				"bog_inst"
+			],
+			[
+				"just",
+				"justify-content-around \tBootstrap 4 Class"
+			],
+			[
+				"getInstallmentData",
+				"getInstallmentDataVtb"
+			],
+			[
+				"each",
+				"each\t$.each()"
+			],
+			[
+				"prod",
+				"products\t(products_product.tpl)"
+			],
+			[
+				"insta",
+				"installmentData\t(order.bundle.js)"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"cred",
+				"credoin_input\t(products_product.tpl)"
+			],
+			[
+				"cartf",
+				"c-cart-full__block\t(order.bundle.js)"
+			],
+			[
+				"pre",
+				"prepend\t.prepend()"
+			],
+			[
+				"conten",
+				"content_page"
+			],
+			[
+				"geo",
+				"geo_name"
+			],
+			[
+				"unse",
+				"unserialize"
+			],
+			[
+				"TMP",
+				"TMPL_pages"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"hi",
+				"hidden\t(new.css)"
+			],
+			[
+				"where",
+				"whereIn"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"curre",
+				"currentCategories"
+			],
+			[
+				"mr",
+				"mr-2 \tBootstrap 4 Class"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"prd",
+				"prod_image"
+			],
+			[
+				"add_to",
+				"add_to_cart"
+			],
+			[
+				"cash",
+				"cash_back"
+			],
+			[
+				"n",
+				"numRows"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"_prod",
+				"_prod_filters\t(get_brand.php)"
+			],
+			[
+				"co",
+				"continue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Z/technoboom.ge/public_html/dist/css/new.css",
+			"settings":
+			{
+				"buffer_size": 14776,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 286.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sspph",
+				"Set Syntax: PHP"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"ss",
+				"Set Syntax: PHP"
+			],
+			[
+				"add",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"SSPHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ADDBO",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"ssvye",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"ssvue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"sspp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"edit snip",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"comment",
+				"Snippet: shortComment"
+			],
+			[
+				"editsni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"packagee",
+				"Package Control: Enable Package"
+			],
+			[
+				"activa",
+				"Material Theme: Activate theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"editsnippet",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippetlog",
+				"Snippet: log"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippetmaker",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippetcre",
+				"Snippet: Create new table"
+			],
+			[
+				"materialthe",
+				"Material Theme: Configuration"
+			],
+			[
+				"color",
+				"Snippet: colors"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"addbo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add bo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"bookma",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssve",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssvu",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"addb",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"removeb",
+				"SublimeBookmarks: Remove All Bookmarks (Clear Bookmarks)"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"randhe",
+				"Random:Hex Color"
+			],
+			[
+				"materia",
+				"Material Theme: Configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"remote",
+				"Remote Edit: Open Remote File Prompt"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"js",
+				"Javascript Beautify"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Format CSS: Compressed"
+			],
+			[
+				"css b",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"minif",
+				"Minify Javascript/CSS"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"create",
+				"Snippet: Create new table"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"jsb",
+				"Javascript Beautify"
+			],
+			[
+				"ssbla",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"makesni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ssblade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"actipa",
+				"Package Control: Install Package"
+			],
+			[
+				"actie",
+				"Material Theme: Activate theme"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"snippetma",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"ssbl",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"jsa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ranhe",
+				"Random:Hex Color"
+			],
+			[
+				"beut",
+				"Javascript Beautify"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"j",
+				"Javascript Beautify"
+			],
+			[
+				"css ",
+				"Format CSS: Compact"
+			],
+			[
+				"ssb",
+				"Set Syntax: Batch File"
+			],
+			[
+				"tospa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"CLOS",
+				"Project: Close"
+			],
+			[
+				"randhex",
+				"Random:Hex Color"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"randtex",
+				"Random:Text"
+			],
+			[
+				"tosp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"randeh",
+				"Random:Hex Color"
+			],
+			[
+				"LIST",
+				"Package Control: List Packages"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"randomhe",
+				"Random:Hex Color"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"randomh",
+				"Random:Hex Color"
+			],
+			[
+				"rand",
+				"Random:Full Name"
+			],
+			[
+				"random",
+				"Random:Last Name"
+			],
+			[
+				"radnom",
+				"Random:Int"
+			],
+			[
+				" PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 1129.0
+	},
+	"console":
+	{
+		"height": 448.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/technoboom.ge/public_html"
+	],
+	"file_history":
+	[
+		"/Z/technoboom.ge/public_html/dist/css/new.css",
+		"/Z/technoboom.ge/public_html/skins/footer.tpl",
+		"/Z/technoboom.ge/public_html",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/js/youtube_jquery.js",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/css/catalog.css",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/footer.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/youtube.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/header.tpl",
+		"/C/wamp/www/learn/laravel_test/routes/web.php",
+		"/C/wamp/www/learn/laravel_test/resources/views/project/home.blade.php",
+		"/C/wamp/www/learn/laravel_test/resources/views/layouts/porject.blade.php",
+		"/C/wamp/www/learn/laravel_test/app/Http/Controllers/ProjectsController.php",
+		"/C/wamp/www/learn/laravel_test/database/migrations/2018_11_15_070839_create_projects_table.php",
+		"/C/wamp/www/learn/laravel_test/app/Project.php",
+		"/C/wamp/www/learn/laravel_test/resources/views/welcome.blade.php",
+		"/C/wamp/www/learn/laravel_test/.env",
+		"/Z/gobatumi/public_html/app/Http/Controllers/EventController.php",
+		"/C/wamp/www/gobatumi/resources/assets/js/website/components/catalogFilter.vue",
+		"/C/wamp/www/gobatumi/app/Http/Controllers/Api/FacilityController.php",
+		"/C/wamp/www/gobatumi/resources/views/website/facility/index.blade.php",
+		"/C/wamp/www/gobatumi/resources/assets/js/website/components/catalogComponent.vue",
+		"/C/wamp/www/gobatumi/resources/assets/js/website/components/searchForm.vue",
+		"/C/wamp/www/gobatumi/resources/assets/js/website/components/Facility.vue",
+		"/C/wamp/www/gobatumi/bootstrap/cache/packages.php",
+		"/C/wamp/www/gobatumi/resources/views/layouts/main.blade.php",
+		"/C/wamp/www/gobatumi/routes/api.php",
+		"/C/wamp/www/gobatumi/routes/web.php",
+		"/C/wamp/www/gobatumi/app/Http/Controllers/PageController.php",
+		"/C/wamp/www/gobatumi/package.json",
+		"/C/wamp/www/gobatumi/public/js/catalog-filter.js",
+		"/C/Users/User/Desktop/catalog-filter.js",
+		"/C/Users/User/Desktop/catalog-filter_from_server.js",
+		"/Z/gobatumi/public_html/public/js/catalog-filter.js",
+		"/C/wamp/www/gobatumi/resources/views/layouts/main_without_cover.blade.php",
+		"/C/wamp/www/gobatumi/public/css/app.css",
+		"/Z/gobatumi/public_html/.env",
+		"/C/wamp/www/gobatumi/.env",
+		"/C/wamp/www/gobatumi/package-lock.json",
+		"/C/wamp/www/gobatumi/webpack.mix.js",
+		"/Z/gobatumi/public_html/app/Http/Controllers/FacilityController.php",
+		"/Z/gobatumi/public_html/resources/views/website/facility/index.blade.php",
+		"/Z/gobatumi/public_html/routes/api.php",
+		"/Z/gobatumi/public_html/app/Http/Controllers/Api/FacilityController.php",
+		"/Z/gobatumi/public_html/resources/assets/js/website/components/catalogComponent.vue",
+		"/Z/gobatumi/public_html/resources/assets/js/website/components/Facility.vue",
+		"/Z/gobatumi/public_html/routes/web.php",
+		"/Z/gobatumi/public_html/app/Http/Controllers/PageController.php",
+		"/Z/gobatumi/public_html/resources/assets/js/website/components/catalogFilter.vue",
+		"/Z/gobatumi/public_html/resources/assets/js/website/catalog-component.js",
+		"/C/wamp/www/laravel_test/app/Http/Controllers/ShopController.php",
+		"/C/wamp/www/laravel_test/resources/views/welcome.blade.php",
+		"/C/wamp/www/laravel_test/app/Shop.php",
+		"/C/wamp/www/laravel_test/routes/web.php",
+		"/C/wamp/www/laravel_test/vendor/kalnoy/nestedset/src/NodeTrait.php",
+		"/C/wamp/www/laravel_test/vendor/kalnoy/nestedset/src/Collection.php",
+		"/C/wamp/www/laravel_test/database/seeds/ShopTableSeeder.php",
+		"/C/wamp/www/laravel_test/app/Providers/AppServiceProvider.php",
+		"/C/wamp/www/laravel_test/database/seeds/DatabaseSeeder.php",
+		"/C/wamp/www/laravel_test/database/migrations/2018_11_12_110411_create_shops_table.php",
+		"/C/wamp/www/laravel_test/.env",
+		"/C/wamp/www/laravel_test/app/User.php",
+		"/C/wamp/www/unit_testing/composer.json",
+		"/C/wamp/www/unit_testing/tests/unit/sample.php",
+		"/C/wamp/www/unit_testing/phpunit.xml",
+		"/C/wamp/www/laravel_test/phpunit.xml",
+		"/C/wamp/www/unit_testing/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/C/wamp/www/laravel_test/composer.json",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/products_product.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/products_files/product_info.php",
+		"/Z/technoboom.ge/public_html/skins/products_product.tpl",
+		"/Z/technoboom.ge/public_html/tt.txt",
+		"/Z/technoboom.ge/public_html/installmentSubmit.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/bs/main_shop.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/bs/main_first.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/main_first.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/products_list.tpl",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/pcms/plugins/petrol_station/index.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/gmap/db/dbConnection.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/pcms/plugins/petrol_station/dbConnection.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/moduls/map.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/moduls/tenders.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/skins/tenders_last.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/css/style_v2013.css",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/skins/tenders.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/skins/news.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html/skins/__footer.inc.php",
+		"/Z/lukoil.ge/domains/lukoil.ge/public_html",
+		"/Z/lukoil.ge",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/news.tpl",
+		"/Z/technoboom.ge/public_html/ajax/order.php",
+		"/Z/technoboom.ge/public_html/dist/js/app.bundle.js",
+		"/Z/technoboom.ge/public_html/dist/js/order.bundle.js",
+		"/Z/technoboom.ge/public_html/skins/basket_pay.tpl",
+		"/Z/technoboom.ge/public_html/logs/errors.log",
+		"/Z/technoboom.ge/public_html/ipn/bogge/CheckPaymentAvail.php",
+		"/Z/technoboom.ge/public_html/cron.php",
+		"/Z/technoboom.ge/public_html/ajax.php",
+		"/Z/technoboom.ge/public_html/pcms/classes/Cart/Cart.class.php",
+		"/Z/technoboom.ge/public_html/js/new_js.js",
+		"/Z/technoboom.ge/public_html/dist/js/cart.bundle.js",
+		"/Z/technoboom.ge/public_html/dist/js/vendor.bundle.js",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/js/fittext.js",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/js/jquery.fittext.js",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/categories_home.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/pcms/config.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/index.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/pcms/plugins/products/files/products.php",
+		"/Z/technoboom.ge/public_html/skins/header.tpl",
+		"/Z/technoboom.ge/public_html/index.php",
+		"/Z/technoboom.ge/public_html/moduls/categories_home.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/pcms/plugins/news/index.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/news_slider.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/news_slider.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/pcms/classes/imageGD/imageGD_2009.class.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/pcms/classes/imageGD/imageGD.class.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/news.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/banners.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/banners.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/js/catalog.js",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/products_list_main.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/products_list_main.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/skins/about_block_main.tpl",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/products_files/products_info.php",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/moduls/products.php",
+		"/C/wamp/www/test/index.html",
+		"/Z/star.ge/domains/star.ge/public_html/catalog/js/video-slider.js",
+		"/C/wamp/www/test/index.js",
+		"/C/wamp/www/test/caru.js"
+	],
+	"find":
+	{
+		"height": 65.0
+	},
+	"find_in_files":
+	{
+		"height": 261.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sachuqari2",
+			"product__gift",
+			"read",
+			"input",
+			"us__input_wrapper",
+			"news_letter_email",
+			"nav-link",
+			"nav-item",
+			"navbar__contact",
+			"ProjectsCotroller",
+			"20",
+			"infinite-scroll-",
+			"infinite-scroll-immediate-check",
+			"load",
+			"5",
+			"55",
+			"index",
+			"load",
+			"lastPage",
+			"load",
+			"30",
+			"load",
+			"serializedData",
+			"getFormData",
+			"load",
+			"getFormData",
+			"getResults",
+			"load",
+			"parse",
+			"window.location.search",
+			"window.",
+			"filterData",
+			"fillFilters",
+			"fillfile",
+			"fillfi",
+			"fillfil",
+			"selectedCategories",
+			"data",
+			"getFormData",
+			"let c",
+			"currentUrl",
+			"showClear",
+			"selectedCategories",
+			"log",
+			"fillFilters",
+			"filterData",
+			"getResults",
+			"filters",
+			"filtersr",
+			"filters",
+			"settime",
+			"getFormData",
+			"filters",
+			"v-bind",
+			"component",
+			"facility-component",
+			"this.filters",
+			"this.filter",
+			"this.filters",
+			"filters",
+			"fillFilters",
+			"&page",
+			"current_page",
+			"curre",
+			"getResults",
+			"selectFilterCategory",
+			"toggleCategory",
+			"selectedCategories",
+			"fillFilters",
+			"zerp",
+			"filterData",
+			"mou",
+			"loadMore",
+			"getResults",
+			"getFormData",
+			"loadMore",
+			"getResults",
+			"getFormData",
+			"array",
+			"loadmore",
+			"string",
+			"filtersData",
+			"FiltersData",
+			"filtersData",
+			"og",
+			"getFormData",
+			"loadMore",
+			"getResults",
+			"getFormData",
+			":key",
+			"getResults",
+			"rets",
+			"getResults",
+			"getFormData",
+			"getResults",
+			"currentUrl",
+			"getFormData",
+			"getResults",
+			"filters =",
+			"this.filters =",
+			"category",
+			"else",
+			"filters",
+			"getFormData",
+			"facilitiesData",
+			"script",
+			"catalog",
+			"isLoading",
+			"loadMore",
+			"30",
+			"320",
+			"30",
+			"facilities",
+			"facilitiesData",
+			"facilities",
+			"facilitiesData",
+			"30",
+			"\n        ",
+			"30",
+			"shops",
+			"parent",
+			"siblin",
+			"parent",
+			"TestCase",
+			"TestCase﻿",
+			"TestCase",
+			"true",
+			"colors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Z/technoboom.ge/public_html/dist/css/new.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9065,
+								9065
+							],
+							[
+								9511,
+								9511
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										9065,
+										9066
+									],
+									"2":
+									[
+										9511,
+										9512
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									],
+									"2":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										9036,
+										9037
+									],
+									"2":
+									[
+										9482,
+										9483
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										9065,
+										9066
+									],
+									"2":
+									[
+										9511,
+										9512
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									],
+									"2":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										9036,
+										9037
+									],
+									"2":
+									[
+										9482,
+										9483
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17101.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 91.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 122.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 122.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 188.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 59.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "learn.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"dist\\css\\new.css"
+			],
+			[
+				"footer",
+				"skins\\footer.tpl"
+			],
+			[
+				"newcss",
+				"dist\\css\\new.css"
+			],
+			[
+				"catalo",
+				"css\\catalog.css"
+			],
+			[
+				"you",
+				"skins\\youtube.tpl"
+			],
+			[
+				"header",
+				"skins\\header.tpl"
+			],
+			[
+				"creapro",
+				"database\\migrations\\2018_11_15_070839_create_projects_table.php"
+			],
+			[
+				"projec",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"welco",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"projeccont",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"rweb",
+				"routes\\web.php"
+			],
+			[
+				"apifac",
+				"app\\Http\\Controllers\\Api\\FacilityController.php"
+			],
+			[
+				"apifaci",
+				"app\\Http\\Controllers\\Api\\FacilityController.php"
+			],
+			[
+				"faciind",
+				"resources\\views\\website\\facility\\index.blade.php"
+			],
+			[
+				"app.css",
+				"public\\css\\app.css"
+			],
+			[
+				"laymain",
+				"resources\\views\\layouts\\main.blade.php"
+			],
+			[
+				"apifacili",
+				"app\\Http\\Controllers\\Api\\FacilityController.php"
+			],
+			[
+				"apiFacilityController",
+				"public_html\\app\\Http\\Controllers\\Api\\FacilityController.php"
+			],
+			[
+				"catalog-filter.js",
+				"public_html\\public\\js\\catalog-filter.js"
+			],
+			[
+				"js/catalog-filter.js",
+				"public_html\\public\\js\\catalog-filter.js"
+			],
+			[
+				"websitefacilityindex",
+				"public_html\\resources\\views\\website\\facility\\index.blade.php"
+			],
+			[
+				"web",
+				"public_html\\routes\\web.php"
+			],
+			[
+				"welcom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welc",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"shoptab",
+				"database\\seeds\\ShopTableSeeder.php"
+			],
+			[
+				"appser",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"Testcase",
+				"vendor\\phpunit\\phpunit\\src\\Framework\\TestCase.php"
+			],
+			[
+				"main_fi",
+				"skins\\main_first.tpl"
+			],
+			[
+				"producti",
+				"moduls\\products_files\\product_info.php"
+			],
+			[
+				"produlist",
+				"skins\\products_list.tpl"
+			],
+			[
+				"productspro",
+				"skins\\products_product.tpl"
+			],
+			[
+				"style2013",
+				"css\\style_v2013.css"
+			],
+			[
+				"tendesl",
+				"skins\\tenders_last.php"
+			],
+			[
+				"tend",
+				"moduls\\tenders.php"
+			],
+			[
+				"tenders",
+				"skins\\tenders.php"
+			],
+			[
+				"news",
+				"skins\\news.php"
+			],
+			[
+				"catalog",
+				"css\\catalog.css"
+			],
+			[
+				"theme",
+				"css\\slick-theme.css"
+			],
+			[
+				"app",
+				"dist\\js\\app.bundle.js"
+			],
+			[
+				"venr",
+				"dist\\js\\vendor.bundle.js"
+			],
+			[
+				"cartbu",
+				"dist\\js\\cart.bundle.js"
+			],
+			[
+				"orderbu",
+				"dist\\js\\order.bundle.js"
+			],
+			[
+				"mobile",
+				"css\\mobile.css"
+			],
+			[
+				"produclist",
+				"skins\\products_list.tpl"
+			],
+			[
+				"products_info",
+				"moduls\\products_files\\products_info.php"
+			],
+			[
+				"pcmconf",
+				"pcms\\config.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"cate",
+				"moduls\\categories_home.php"
+			],
+			[
+				"newslider",
+				"skins\\news_slider.tpl"
+			],
+			[
+				"sba",
+				"skins\\banners.tpl"
+			],
+			[
+				"banner",
+				"moduls\\banners.php"
+			],
+			[
+				"spromain",
+				"skins\\products_list_main.tpl"
+			],
+			[
+				"about",
+				"skins\\about_block_main.tpl"
+			],
+			[
+				"skproducts_list_main",
+				"skins\\products_list_main.tpl"
+			],
+			[
+				"producma",
+				"moduls\\products_list_main.php"
+			],
+			[
+				"skproducts_list",
+				"skins\\products_list.tpl"
+			],
+			[
+				"productl",
+				"skins\\products_list.tpl"
+			],
+			[
+				"video-slider",
+				"js\\video-slider.js"
+			],
+			[
+				"skiyou",
+				"skins\\youtube.tpl"
+			],
+			[
+				"user",
+				"moduls\\user_form.php"
+			],
+			[
+				"pcmco",
+				"pcms\\config.php"
+			],
+			[
+				"cata",
+				"js\\catalog.js"
+			],
+			[
+				"slick",
+				"css\\slick-theme.css"
+			],
+			[
+				"products_list_main",
+				"skins\\products_list_main.tpl"
+			],
+			[
+				"roduclistma",
+				"moduls\\products_list_main.php"
+			],
+			[
+				"talog",
+				"js\\catalog.js"
+			],
+			[
+				"slickteh",
+				"css\\slick-theme.css"
+			],
+			[
+				"pcmcon",
+				"pcms\\config.php"
+			],
+			[
+				"dail",
+				"skins\\daily_offer.tpl"
+			],
+			[
+				"content_product",
+				"skins\\content_product.tpl"
+			],
+			[
+				"contencp",
+				"moduls\\content_products.php"
+			],
+			[
+				"content",
+				"skins\\content_product.tpl"
+			],
+			[
+				"mob",
+				"dist\\css\\mob.css"
+			],
+			[
+				"special",
+				"skins\\special_offer.tpl"
+			],
+			[
+				"mobcss",
+				"dist\\css\\mob.css"
+			],
+			[
+				"about_block_main",
+				"skins\\about_block_main.tpl"
+			],
+			[
+				"aboiut",
+				"skins\\about_block_main.tpl"
+			],
+			[
+				"pcmsconf",
+				"pcms\\config.php"
+			],
+			[
+				"pcmsco",
+				"pcms\\config.php"
+			],
+			[
+				"catajs",
+				"js\\catalog.js"
+			],
+			[
+				"test",
+				"test.php"
+			],
+			[
+				"slicktheme",
+				"css\\slick-theme.css"
+			],
+			[
+				"mobi",
+				"css\\mobile.css"
+			],
+			[
+				"headerinc",
+				"header.inc.php"
+			],
+			[
+				"newjs",
+				"js\\new_js.js"
+			],
+			[
+				"options_addEdit",
+				"pcms\\plugins\\products\\templates\\options_addEdit.template.php"
+			],
+			[
+				"sort",
+				"skins\\sorts.tpl"
+			],
+			[
+				"sorts",
+				"moduls\\sorts.php"
+			],
+			[
+				"conf",
+				"pcms\\config.php"
+			],
+			[
+				"userbas",
+				"skins\\user_basket.tpl"
+			],
+			[
+				"tt",
+				"tt.txt"
+			],
+			[
+				"newc",
+				"dist\\css\\new.css"
+			],
+			[
+				"producsinf",
+				"moduls\\products_files\\products_info.php"
+			],
+			[
+				"instal",
+				"installmentSubmit.php"
+			],
+			[
+				"pcmorderinstal",
+				"pcms\\plugins\\orders\\templates\\orders_list_instalment.template.php"
+			],
+			[
+				"producpro",
+				"skins\\products_product.tpl"
+			],
+			[
+				"basketor",
+				"skins\\basket_order.tpl"
+			],
+			[
+				"basketpa",
+				"skins\\basket_pay.tpl"
+			],
+			[
+				"cartf",
+				"dist\\js\\cart-full.bundle.js"
+			],
+			[
+				"vend",
+				"dist\\js\\vendor.bundle.js"
+			],
+			[
+				"appbu",
+				"dist\\js\\app.bundle.js"
+			],
+			[
+				"cart",
+				"dist\\js\\cart.bundle.js"
+			],
+			[
+				"langge",
+				"lang\\geo.php"
+			],
+			[
+				"pcmsordersindex",
+				"pcms\\plugins\\orders\\index.php"
+			],
+			[
+				"getbra",
+				"cronjobs\\get_brand.php"
+			],
+			[
+				"productprodu",
+				"skins\\products_product.tpl"
+			],
+			[
+				"vendor",
+				"dist\\js\\vendor.bundle.js"
+			],
+			[
+				"basket",
+				"skins\\basket_pay.tpl"
+			],
+			[
+				"orders_list",
+				"pcms\\plugins\\orders\\templates\\orders_list.template.php"
+			],
+			[
+				"pcmscon",
+				"pcms\\config.php"
+			],
+			[
+				"productprod",
+				"skins\\products_product.tpl"
+			],
+			[
+				"order",
+				"ajax\\order.php"
+			],
+			[
+				"installmentSubmit.",
+				"installmentSubmit.php"
+			],
+			[
+				"crontest",
+				"cronjobs\\test.php"
+			],
+			[
+				"pcms\\conf",
+				"pcms\\config.php"
+			],
+			[
+				"common",
+				"common.php"
+			],
+			[
+				"checko",
+				"moduls\\user_checkout.php"
+			],
+			[
+				"userpro",
+				"moduls\\user_profile.php"
+			],
+			[
+				"car",
+				"dist\\js\\cart.bundle.js"
+			],
+			[
+				"produin",
+				"moduls\\products_files\\product_info.php"
+			],
+			[
+				"produpro",
+				"skins\\products_product.tpl"
+			],
+			[
+				"carclas",
+				"pcms\\classes\\Cart\\Cart.class.php"
+			],
+			[
+				"cart-full.bundle",
+				"dist\\js\\cart-full.bundle.js"
+			],
+			[
+				"cartclas",
+				"pcms\\classes\\Cart\\Cart.class.php"
+			],
+			[
+				"cartbund",
+				"dist\\js\\cart.bundle.js"
+			],
+			[
+				"ajacart",
+				"ajax\\cart.php"
+			],
+			[
+				"producprod",
+				"skins\\products_product.tpl"
+			],
+			[
+				"getbrand",
+				"cronjobs\\get_brand.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 631.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\cme\\cme.sublime-project"
+			],
+			[
+				"one",
+				"C:\\wamp64\\www\\110-iliauni-online\\iliauni_online\\online.sublime-project"
+			],
+			[
+				"asa",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\asabroad\\asa.sublime-project"
+			],
+			[
+				"ASA",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\asabroad\\asa.sublime-project"
+			],
+			[
+				"stud",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\stud_new\\stud_new.sublime-project"
+			],
+			[
+				"lms",
+				"C:\\wamp64\\www\\LMS\\Lms.sublime-project"
+			],
+			[
+				"usm",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\usmd_kaxa\\usmd.sublime-project"
+			],
+			[
+				"usd",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\usmd_kaxa\\usmd.sublime-project"
+			],
+			[
+				"itd",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\itdc\\itdc.sublime-project"
+			],
+			[
+				"rm",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\rmbi\\rmbi.sublime-project"
+			],
+			[
+				"i",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\itdc\\itdc.sublime-project"
+			],
+			[
+				"it",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\itdc\\itdc.sublime-project"
+			],
+			[
+				"wa",
+				"C:\\wamp64\\www\\my-site\\wamp.sublime-project"
+			],
+			[
+				"eur",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\eurolux\\eurolux.sublime-project"
+			],
+			[
+				"lux",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\eurolux\\eurolux.sublime-project"
+			],
+			[
+				"l",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\eurolux\\eurolux.sublime-project"
+			],
+			[
+				"wamp",
+				"C:\\wamp64\\www\\my-site\\wamp.sublime-project"
+			],
+			[
+				"wam",
+				"C:\\wamp64\\www\\my-site\\wamp.sublime-project"
+			],
+			[
+				"jew",
+				"C:\\Users\\vaska\\Documents\\myproject\\jew.sublime-project"
+			],
+			[
+				"ts",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\tsmu_test\\tsmu_test.sublime-project"
+			],
+			[
+				"axa",
+				"C:\\Users\\vaska\\Documents\\SITE PROJECTS\\axali\\axali.sublime-project"
+			],
+			[
+				"boo",
+				"C:\\Users\\vaska\\Documents\\HTML CSS\\bootsrap.sublime-project"
+			],
+			[
+				"itdc",
+				"C:\\Users\\vaska\\Documents\\HTML CSS\\Sites\\itdc\\ITDC project.sublime-project"
+			],
+			[
+				"itds",
+				"C:\\Users\\vaska\\Documents\\HTML CSS\\ITDC\\ITDC project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 379.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1260.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
